@@ -1,5 +1,13 @@
+<p align="center">
+  <img
+    src="https://github.com/AlkaShukla26/Walmart/blob/main/WhatsApp%20Image%202025-09-07%20at%2000.00.36%20(1).jpeg?raw=true"
+    alt="Walmart Project"
+    width="567"
+    height="264"
+  />
+</p>
+
 # Walmart
-"Walmart data analysis project: sales trends, customer behavior, and business insights."
 # 🛒 Retail Customer Insights & Purchase Behavior Analysis
 
 ## 📌 Project Overview
